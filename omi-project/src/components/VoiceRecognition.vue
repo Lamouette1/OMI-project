@@ -91,7 +91,7 @@
         recognition: null,
         socket: null,
         esp32Connected: false,
-        esp32Address: 'ws://your-esp32-ip:port' // Change to your ESP32's IP and port
+        esp32Address: 'ws://your-esp32-ip:port' // Change for ESP32's IP and port
       }
     },
     mounted() {

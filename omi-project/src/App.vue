@@ -4,7 +4,7 @@
       <div class="header-content">
         <div class="logo">
           <i class="fa-solid fa-microphone-lines"></i>
-          <h1>VoiceRec Hub</h1>
+          <h1>Omi Selfmade</h1>
         </div>
         <div class="theme-toggle">
           <button @click="toggleTheme" class="theme-button">
